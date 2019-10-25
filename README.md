@@ -1,3 +1,5 @@
+An index of resources for SLAM algorithm evaluation. Contribution is welcome!
+
 # Online benchmarks & competition results
 
 [KITTI Odometry](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
@@ -22,7 +24,7 @@
 |    [TUM VI](https://vision.in.tum.de/data/datasets/visual-inertial-dataset)                                                | 2018 |    Handheld          |    stereo + IMU          |    MoCap                  |    campus  buildings     |    -                             |
 |    [Bonn RGB-D   Dynamic Dataset](http://www.ipb.uni-bonn.de/data/rgbd-dynamic-dataset/)                          | 2019 |    Handheld          |    RGBD                  |    MoCap                  |    lab                   |    moving object                    |
 |    [InteriorNet](https://interiornet.org/)                                           | 2019 |    Synthetic data    |    RGBD + IMU            |    Real data            |    home                  |    illumination/objects (simulation)     |
-|    [OpenLORIS-scene](https://lifelong-robotic-vision.github.io/dataset/scene)    | 2019 |    Robot             |    RGBD + IMU + odom     |    MoCap / laser          |    home/office/cafe/supermarket    |    illumination/objects (real life)    |
+|    [OpenLORIS-Scene](https://lifelong-robotic-vision.github.io/dataset/scene)    | 2019 |    Robot             |    RGBD + IMU + odom     |    MoCap / laser          |    home/office/cafe/supermarket    |    illumination/objects (real life)    |
 
 
 # Evaluation Tools (TODO)
